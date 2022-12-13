@@ -1,4 +1,4 @@
-* eslint-disable no-undef */
+/* eslint-disable no-undef */
 const todoList = require("../todo");
 let today = new Date().toLocaleDateString("en-CA");
 
